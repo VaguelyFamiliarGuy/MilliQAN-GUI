@@ -4,5 +4,5 @@ GUI for the MilliQAN Project WIP.
 
 ## User needs:
 
-PyQt5
+PyQt5 \\
 numpy (maybe temporary)
